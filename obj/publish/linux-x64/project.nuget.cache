@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Kt66X9SZqBqtkuwdEsClsLkC1p6vTpHjEvNrD9YEKmfyWa3F2cOVgxQLfFOTHpgnqX1o95tPmo693NfA+73Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamran\\source\\repos\\testapp\\testapp\\testapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamran\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.2\\microsoft.netcore.app.runtime.linux-x64.5.0.2.nupkg.sha512",
+    "C:\\Users\\Kamran\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.2\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.2.nupkg.sha512",
+    "C:\\Users\\Kamran\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.2\\microsoft.netcore.app.host.linux-x64.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
